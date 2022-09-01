@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://launch-countdown-timer-t.netlify.app/
-- Live Site URL:
+- Live Site URL: https://teonazav.github.io/launch-Countdown/
 
 ## My process
 
